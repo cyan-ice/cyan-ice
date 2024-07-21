@@ -1,16 +1,14 @@
-## Hi there 👋
+# Jingyang (George) Wang
+Also known as WangJY, iwoeix, pi-ism, pyromis, fretum and cyan-ice.
 
-<!--
-**cyan-ice/cyan-ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pronouns: He/Him
 
-Here are some ideas to get you started:
+Currently student in Weichang Experimental Program of Suzhou High School. Interested in OI and MO. I develop (useless) libraries, do game/web developing as well. Preferred language is Python and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+May be away from Olympiads soon.
+
+AtCoder:
+
+[![AtCoder Rating of @iwoeix](https://atrating.baoshuo.dev/rating?username=iwoeix&style=for-the-badge)](https://atcoder.jp/users/iwoeix)
+
+Also, see @colinwang1703.
